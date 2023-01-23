@@ -24,9 +24,9 @@ I like a lot to learn new things, about development, good practices, patterns, b
 
 ## Interested in
 
-- *Good practices*
+- *Best practices*
+- *Personal growth*
 - *Patterns*
 - *Front-end*
-- *Block Chain*
 - *Cloud*
-- *Communitys*
+- *Communities*
